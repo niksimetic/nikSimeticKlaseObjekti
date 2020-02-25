@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\bin\Debug\nikSimeticKlaseObjekti.exe.config
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\bin\Debug\nikSimeticKlaseObjekti.exe
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\bin\Debug\nikSimeticKlaseObjekti.pdb
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\obj\Debug\nikSimeticKlaseObjekti.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\obj\Debug\nikSimeticKlaseObjekti.exe
+C:\Users\3.D\source\repos\nikSimeticKlaseObjekti\obj\Debug\nikSimeticKlaseObjekti.pdb
